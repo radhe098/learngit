@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "private": true,
-  "homepage": "https://radhe098.github.io/learngit/",
+  "homepage": "./",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
